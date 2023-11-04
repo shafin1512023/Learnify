@@ -1,0 +1,18 @@
+:root {
+    --bg-color: var(--dark-bg);
+    --text-color: var(--dark-text);
+    --primary-color: var(--dark-primary);
+    --secondary-color: var(--dark-secondary);
+
+    /* Light Mod */
+    --light-bg: #ddf2fd;
+    --light-text: #164863;
+    --light-primary: #9bbec8;
+    --light-secondary: #427d9d;
+
+    /* Dark Mod */
+    --dark-bg: #352F44;
+    --dark-text: #FAF0E6;
+    --dark-primary: #B9B4C7;
+    --dark-secondary: #5C5470;
+}

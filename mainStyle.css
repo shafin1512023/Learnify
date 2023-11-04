@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Lilita+One&family=Ubuntu&display=swap");
+@import "./colors";
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: var(--text-color);
+    font-family: "Lilita One";
+    user-select: none;
+}
+
+@font-face {
+    font-family: "Bangla 1";
+    src: url("./src/assets/fonts/bangla1.ttf");
+}
+@font-face {
+    font-family: "Bangla 2";
+    src: url("./src/assets/fonts/bangla2.ttf");
+}
+
+body {
+    background-color: var(--bg-color);
+}
